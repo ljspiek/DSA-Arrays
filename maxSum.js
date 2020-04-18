@@ -18,3 +18,4 @@ function maxSum(arr) {
 console.log(maxSum([4,6,-3,5,-3,1]))
 
 //Math.max(a, b) returns the larger of the two values provided
+//good reference: https://medium.com/@IndiraWilliams/max-sub-array-sum-javascript-f1303f979344
