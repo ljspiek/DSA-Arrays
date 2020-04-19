@@ -26,3 +26,5 @@ console.log(merge([1, 3, 6, 8, 11], [2, 3, 5, 8, 9, 10]))
 //     }
 //     return merged;
 // }
+
+//https://wsvincent.com/javascript-merge-two-sorted-arrays/
